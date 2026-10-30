@@ -19,7 +19,7 @@ A command-line app that converts US dollars to other currencies, written in Pyth
 pip install requests python-dotenv
 ```
 
-3. Get a free API key from exchangerate-api.com.
+3. Get a free API key from [exchangerate-api.com](https://www.exchangerate-api.com).
 4. Create a file named `.env` in the project folder and add this line (use your own key):
 
 ```
