@@ -12,15 +12,15 @@ A command-line app that converts US dollars to other currencies, written in Pyth
 
 ## Setup
 
-1- Install Python 3.
-2- Install the libraries:
+1. Install Python 3.
+2. Install the libraries:
 
 ```
 pip install requests python-dotenv
 ```
 
-3- Get a free API key from exchangerate-api.com.
-4- Create a file named `.env` in the project folder and add this line (use your own key):
+3. Get a free API key from exchangerate-api.com.
+4. Create a file named `.env` in the project folder and add this line (use your own key):
 
 ```
 API_KEY=your-key-here
